@@ -2,9 +2,9 @@
 [Übersicht](http://tracesof.net/uebersicht/) system information bar widget in my own colourscheme.
 
 ## Sreenshots
-![](/images/ss.png)
+![](https://raw.githubusercontent.com/grassii/bar.widget/master/images/ss.png)
 
-![](images/ss2.png)
+![](https://raw.githubusercontent.com/grassii/bar.widget/master/images/ss2.png)
 
 ## Information
 
